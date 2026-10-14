@@ -2,7 +2,7 @@
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
-To conduct load test on separately excited generators and to obtain the characteristics
+To study Magnetisation Characteristics of DC Generator and Load Characteristics of DC shunt generator 
 
 Apparatus Required:
 
@@ -47,17 +47,33 @@ Procedure for Load test:
 6.   After tabulating all the readings the load is brought to its initial position.
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
-Tabulation for Open Circuit Test
+Tabulation for Open Circuit Test:
+<img width="298" height="316" alt="2 1tab" src="https://github.com/user-attachments/assets/bccc4b62-9c27-4001-8fb7-9613a4a297f5" />
+
 
 Tabulation for Load Test:
+<img width="324" height="250" alt="2 2tab" src="https://github.com/user-attachments/assets/64f5aec2-2446-42d3-b423-b4e94e20cc28" />
+
 
 Model graph:
-Calculation: 
+<img width="1406" height="460" alt="2 1graph" src="https://github.com/user-attachments/assets/390aeda4-1f14-4ff4-971b-5c1a51689af5" />
+<img width="640" height="344" alt="2 2graph" src="https://github.com/user-attachments/assets/2832233d-2f9a-4e8a-91c3-314f113a533e" />
 
-Open circuit characteristics
+Calculation for open circuit:
+<img width="3072" height="4096" alt="2 1cal" src="https://github.com/user-attachments/assets/7721d51a-a866-45f7-8fa0-27b0a6fe5c2d" />
+
+Calculation for load test:
+<img width="3072" height="4096" alt="2 2cal" src="https://github.com/user-attachments/assets/1565313a-6a30-438b-9e7e-2b02939280a2" />
+
+
+Open circuit characteristics:
+<img width="1418" height="684" alt="2 1" src="https://github.com/user-attachments/assets/55e058b0-3ca5-435c-8a1d-14ac330bffed" />
+
 
   
 Load Characteristics:
+<img width="1106" height="640" alt="2 2" src="https://github.com/user-attachments/assets/c01468c4-3ca1-4c5c-b725-c7cfbfdb67cb" />
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
